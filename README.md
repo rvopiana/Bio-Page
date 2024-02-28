@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rvopiana
-- 👀 I’m interested in learning web development.
-- 🌱 I’m currently learning PHP,Javascript, and MySQL for server side. HTML and CSS for page structure and sytle information.
-- 💞️ I’m looking to collaborate on web developers.
+- 👀 I’m interested in learning web development but a slow learner of coding.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on web developers and programmers to improve my skills.
 - 📫 How to reach me?
       Email: rvopiana@gmail.com
 
