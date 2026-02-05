@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @rvopiana
-- 👀 I’m interested in learning web development but a slow learner of coding.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on web developers and programmers to improve my skills.
-- 📫 How to reach me?
-      Email: rvopiana@gmail.com
+- 👋 Hi, I’m Ryan!
+- 👀 I’m interested in learning AI Automation.
+- 🌱 I’m currently learning python, n8n, and AI Automation.
+- 📫 How to reach me? Email: rvopiana@gmail.com
 
 <!---
 rvopiana/rvopiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
